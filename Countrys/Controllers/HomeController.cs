@@ -15,6 +15,7 @@ namespace Countrys.Controllers
         public ActionResult Index()
         {
             //getCountires();
+            //getCountires();
 
 
 
